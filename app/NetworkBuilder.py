@@ -6,7 +6,7 @@ import csv
 import xml.etree.ElementTree as ET
 from neomodel import config
 
-from network.model.document import Classification, Document, Institution
+from app.network.model.document import Classification, Document, Institution
 
 
 class NetworkBuilder:
