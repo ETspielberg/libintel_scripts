@@ -17,7 +17,7 @@ neo4j-driver==1.7.2
 neobolt==1.7.15
 neomodel==3.3.2
 neotime==1.7.4
-numpy==1.17.3
+numpy==1.22.0
 pandas==0.25.3
 pbr==5.4.4
 psycopg2==2.8.4
